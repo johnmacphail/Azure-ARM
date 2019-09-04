@@ -3,25 +3,25 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "virtualMachines_Win10Ret_name": {
-            "value": null
+            "value": 'Win10ret2'
         },
         "networkInterfaces_win10ret766_name": {
-            "value": null
+            "value": 'win10ret2766'
         },
         "publicIPAddresses_Win10Ret_ip_name": {
-            "value": null
+            "value": 'Win10Ret2_ip'
         },
         "virtualNetworks_RetentionVnet_name": {
-            "value": null
+            "value": 'RetentionVnet2'
         },
         "networkSecurityGroups_Win10Ret_nsg_name": {
-            "value": null
+            "value": 'Win10Ret2_nsg'
         },
         "storageAccounts_retentionpoliciesdiag_name": {
-            "value": null
+            "value": 'retentionpoliciesdiag2'
         },
         "schedules_shutdown_computevm_win10ret_name": {
-            "value": null
+            "value": 'shutdown-computevm-win10ret2'
         }
     }
 }
